@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Jonas Janssens portfolio&nbsp;
-            <code className={styles.code}>src/pages/index.tsx</code>
+            
           </p>
           
         </div>
